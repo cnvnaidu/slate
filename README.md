@@ -1,0 +1,2 @@
+# slate
+blogging application
